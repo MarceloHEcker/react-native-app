@@ -55,8 +55,8 @@
 	<false/>
 	<key>UIAppFonts</key>
 	<array>
-		<string>RobotoSlab-Medium (1).ttf</string>
-		<string>RobotoSlab-Regular (1).ttf</string>
+		<string>RobotoSlab-Medium.ttf</string>
+		<string>RobotoSlab-Regular.ttf</string>
 	</array>
 </dict>
 </plist>
